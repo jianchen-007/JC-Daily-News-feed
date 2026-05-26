@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>JC Daily News</title>
+    <link>https://jianchen-007.github.io/JC-Daily-News-feed</link>
+    <description>Jian's personal daily news briefing.</description>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 May 2026 07:44:38 +0000</lastBuildDate>
+    <itunes:author>JC Daily News</itunes:author>
+    <itunes:summary>Jian's personal daily news briefing.</itunes:summary>
+    <itunes:owner><itunes:name>JC Daily News</itunes:name><itunes:email>jian.chen.1@gmail.com</itunes:email></itunes:owner>
+    <itunes:category text="News"/>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>JC Daily News — 2026-05-26</title>
+      <description>Daily briefing for 2026-05-26. Chapters: • World News • United States • California &amp;amp; Bay Area • Tech &amp;amp; Science</description>
+      <pubDate>Tue, 26 May 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">jc-daily-news-2026-05-26</guid>
+      <enclosure url="https://jianchen-007.github.io/JC-Daily-News-feed/episodes/2026-05-26.mp3" length="3705694" type="audio/mpeg"/>
+      <itunes:duration>10:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
