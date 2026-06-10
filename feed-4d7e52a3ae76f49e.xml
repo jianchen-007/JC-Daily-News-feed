@@ -5,16 +5,25 @@
     <link>https://jianchen-007.github.io/JC-Daily-News-feed</link>
     <description>Jian's personal daily news briefing.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jun 2026 13:21:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 13:25:41 +0000</lastBuildDate>
     <itunes:author>JC Daily News</itunes:author>
     <itunes:summary>Jian's personal daily news briefing.</itunes:summary>
     <itunes:owner><itunes:name>JC Daily News</itunes:name><itunes:email>jian.chen.1@gmail.com</itunes:email></itunes:owner>
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>JC Daily News — 2026-06-10 06:25 PDT</title>
+      <description>Daily briefing for 2026-06-10. Chapters: • World News • United States • California &amp;amp; Bay Area • Financial • Sports • Tech &amp;amp; Science</description>
+      <pubDate>Wed, 10 Jun 2026 13:25:23 +0000</pubDate>
+      <guid isPermaLink="false">jc-daily-news-2026-06-10-0625</guid>
+      <enclosure url="https://jianchen-007.github.io/JC-Daily-News-feed/episodes/2026-06-10-0625.mp3" length="3329046" type="audio/mpeg"/>
+      <itunes:duration>09:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>JC Daily News — 2026-06-09 06:21 PDT</title>
       <description>Daily briefing for 2026-06-09. Chapters: • World News • United States • California &amp;amp; Bay Area • Financial • Sports • Tech &amp;amp; Science</description>
-      <pubDate>Tue, 09 Jun 2026 13:21:44 +0000</pubDate>
+      <pubDate>Tue, 09 Jun 2026 13:21:00 +0000</pubDate>
       <guid isPermaLink="false">jc-daily-news-2026-06-09-0621</guid>
       <enclosure url="https://jianchen-007.github.io/JC-Daily-News-feed/episodes/2026-06-09-0621.mp3" length="3771568" type="audio/mpeg"/>
       <itunes:duration>10:27</itunes:duration>
