@@ -5,12 +5,21 @@
     <link>https://jianchen-007.github.io/JC-Daily-News-feed</link>
     <description>Jian's personal daily news briefing.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Nov 2026 02:13:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 01:09:36 +0000</lastBuildDate>
     <itunes:author>JC Daily News</itunes:author>
     <itunes:summary>Jian's personal daily news briefing.</itunes:summary>
     <itunes:owner><itunes:name>JC Daily News</itunes:name><itunes:email>jian.chen.1@gmail.com</itunes:email></itunes:owner>
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>JC Daily News — 2026-11-07 17:09 PST</title>
+      <description>Daily briefing for 2026-11-07. Chapters: • World News • United States • California &amp;amp; Bay Area • Financial • Sports • Tech &amp;amp; Science</description>
+      <pubDate>Sun, 08 Nov 2026 01:09:00 +0000</pubDate>
+      <guid isPermaLink="false">jc-daily-news-2026-11-07-1709</guid>
+      <enclosure url="https://jianchen-007.github.io/JC-Daily-News-feed/episodes/2026-11-07-1709.mp3" length="3682175" type="audio/mpeg"/>
+      <itunes:duration>10:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>JC Daily News — 2026-11-06 18:12 PST</title>
       <description>Daily briefing for 2026-11-06. Chapters: • World News • United States • California &amp;amp; Bay Area • Financial • Sports • Tech &amp;amp; Science</description>
@@ -189,15 +198,6 @@
       <guid isPermaLink="false">jc-daily-news-2026-09-13-0623</guid>
       <enclosure url="https://jianchen-007.github.io/JC-Daily-News-feed/episodes/2026-09-13-0623.mp3" length="3446590" type="audio/mpeg"/>
       <itunes:duration>09:33</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>JC Daily News — 2026-09-12 06:23 PDT</title>
-      <description>Daily briefing for 2026-09-12. Chapters: • World News • United States • California &amp;amp; Bay Area • Financial • Sports • Tech &amp;amp; Science</description>
-      <pubDate>Sat, 12 Sep 2026 13:23:00 +0000</pubDate>
-      <guid isPermaLink="false">jc-daily-news-2026-09-12-0623</guid>
-      <enclosure url="https://jianchen-007.github.io/JC-Daily-News-feed/episodes/2026-09-12-0623.mp3" length="3304464" type="audio/mpeg"/>
-      <itunes:duration>09:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
